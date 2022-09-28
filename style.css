@@ -1,0 +1,94 @@
+img{
+	height: 200px;
+	width: 180px;
+	border-radius: 80%;
+	margin-top: 20px;
+		}
+
+body{
+	text-align: center;
+	margin-top: auto;
+ 	background-image: url("images/yezt.png" );
+
+}
+
+
+#Social{
+	
+	width: 550px;
+	margin: 10px 32%;
+	margin-bottom: 5px;
+	box-shadow:  10px 10px 10px darkgray;
+	background-color: #EADDCA;
+	padding: 5px;
+	border-radius: 5px;
+	text-align: center;
+	 border-style: solid;
+}
+
+.container{
+	
+	width: 550px;
+	margin: 10px 32%;
+	margin-bottom: 5px;
+	box-shadow:  10px 10px 10px darkgray;
+	background-color: #EADDCA;
+	padding: 5px;
+	border-radius: 5px;
+	text-align: center;
+	 border-style: solid;
+	 display: inline-block
+}
+
+h2{
+ -webkit-text-stroke: 1px #4F7942 ;
+ font-family: arial; color: black;
+
+	margin-top: 1px;
+	margin-bottom: 1px;
+	border-radius: 10px;
+	padding:  5px;
+	color: black;
+	font: italic 2em "Fira Sans", serif;
+}
+
+
+
+
+ul{
+	 list-style-position: inside;
+  text-align: center;
+  display: inline-block;
+	margin: 5px;
+}
+
+li{
+	text-align: left;
+	font-size: large;
+	font: Fira Sans;
+
+}
+
+
+#about{
+	-webkit-text-stroke: 2px black ;
+ font-family: arial; color: #4F7942;
+ font-size: xx-large;
+
+ 
+}
+
+h1{
+	-webkit-text-stroke: 2px black ;
+ font-family: arial; color: #4F7942;
+	border-style: solid;
+	border-color: black;
+	border-width:5px;
+}
+
+.social-network-inline{
+	display: inline-block;
+	padding: 10px;
+	padding-right: 20px;
+
+}
